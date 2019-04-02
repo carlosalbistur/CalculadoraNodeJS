@@ -1,0 +1,19 @@
+{
+  "name": "calculadoranodejs",
+  "version": "1.0.0",
+  "description": "calculadora basica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosalbistur/CalculadoraNodeJS.git"
+  },
+  "author": "carlosalbistur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosalbistur/CalculadoraNodeJS/issues"
+  },
+  "homepage": "https://github.com/carlosalbistur/CalculadoraNodeJS#readme"
+}
